@@ -1,0 +1,22 @@
+Lee and Son Means of Transportation (Charlotte based Trucking Company)
+
+/* ABOUT THE DEVELOPER */
+                        
+Name: Ivan Aldwin A. Cristobal
+Contact Me @: ivanaldwin996@gmail.com 
+Github: ivanraptor730
+Location: Caloocan City (North), Philippines
+
+Do you want to have a starter website like this? Visit my Fiverr Page and help me build up my
+web design career! https://www.fiverr.com/ivanraptor730/make-your-basic-or-starter-website
+ 
+/* SITE INFO */                     
+Last update: 2021/01/22                      
+Standards: HTML5, CSS3
+Components: Bootstrap 4.5
+Template: StartBootstrap Business (GitHub/MIT)                  
+Software: Visual Studio Code
+
+/*IMAGES*/
+
+Most images were taken from Unsplash. Names of Photographers are maintained in the filenames of photos taken.
