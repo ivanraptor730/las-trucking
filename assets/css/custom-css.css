@@ -1,0 +1,8 @@
+/* Custom CSS Definitins 
+ * Ivan Aldwin Cristobal (2020)
+ */
+
+ .bg-header{
+     background-image: url('../img/header.jpg');
+     background-position: center;
+ }
