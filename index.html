@@ -79,7 +79,9 @@
           In all circumstances, we make sure that we are reliable, provide quality service, and provide competitive
           rates for all your trucking needs.
         </p>
-        <a class="btn btn-danger btn-lg" href="contact-us.html">Get a Free Quote! &raquo;</a>
+        <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#quoteModal">
+          Click here to get a free quote.
+        </button>
       </div>
       <div class="col-md-4 mb-5">
         <h2>Contact Us</h2>
@@ -155,6 +157,27 @@
           <small>
             Powered by Bootstrap 4.5 | <a href="humans.txt"><img src="assets/img/humanstxt-transparent-color.png"></a>
           </small>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="quoteModal" tabindex="-1" role="dialog" aria-labelledby="quoteModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title text-dark" id="quoteModalLabel">Quote</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="embed-responsive embed-responsive-1by1">
+              <iframe class="embed-responsive-item"
+                src="https://docs.google.com/forms/d/e/1FAIpQLSemakEULK3fq8Y-2YT1K4ndSN8mVMEwecg0hbmnr9-X52_SNg/viewform?embedded=true">Loading…</iframe>
+            </div>
+          </div>
         </div>
       </div>
     </div>
